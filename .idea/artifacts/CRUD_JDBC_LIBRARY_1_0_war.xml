@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CRUD_JDBC_LIBRARY_1_0:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CRUD_JDBC_LIBRARY_1_0-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CRUD_JDBC_LIBRARY_1_0:war exploded" />
+      <element id="javaee-facet-resources" facet="CRUD_JDBC_LIBRARY_1_0/web/Web2" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CRUD_JDBC_LIBRARY_1_0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
