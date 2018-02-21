@@ -5,5 +5,6 @@ public enum Actions {
     EDIT,
     CREATE,
     DELETE,
-    LIST_BY_ID
+    LIST_BY_ID,
+    LIST_VENDORS
 }
